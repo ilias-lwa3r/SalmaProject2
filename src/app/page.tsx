@@ -8,7 +8,7 @@ export default function Home() {
               Welcome <br/>This is a gift from Ilias to someone<br/> very special<br/>Before we start we need to make sure <br/> you're the right person  
           </Intro>
           <Answer>
-              <Link href='/qst1'>YES</Link> 
+              <Link href='/qst1'>Click to start!</Link> 
           </Answer>
         </Div>
   );
